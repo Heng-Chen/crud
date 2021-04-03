@@ -13,6 +13,7 @@
     <script src="${ctp}/static/bootstrap-3.3.7-dist/js/bootstrap.js"></script>
 </head>
 <body>
+<h1>okokokk</h1>
 <div class="modal fade" id="changepagemodel" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
     <div class="modal-dialog" role="document">
         <div class="modal-content">
