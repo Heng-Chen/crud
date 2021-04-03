@@ -14,6 +14,7 @@
 </head>
 <body>
 <h1>页面被添加了东西</h1>
+<h1>页面有添加东西</h1>
 <div class="modal fade" id="changepagemodel" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
     <div class="modal-dialog" role="document">
         <div class="modal-content">
